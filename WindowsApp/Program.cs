@@ -16,7 +16,7 @@ namespace WindowsApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormNotas());
+            Application.Run(new frmLoop());
         }
     }
 }
