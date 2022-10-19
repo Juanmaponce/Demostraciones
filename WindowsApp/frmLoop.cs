@@ -38,7 +38,7 @@ namespace WindowsApp
                 total = total + numero;
             }
 
-            MessageBox.Show("Total: "+ total);
+            MessageBox.Show("Total: "+ total.ToString());
         }
     }
 }
